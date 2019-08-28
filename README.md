@@ -34,3 +34,7 @@ Sample output:
 Explanation:
 The first call overlaps with the second call. The third call also overlaps with the second
 call. However, the first and the third call are not overlapping with each other. 
+
+#http://alexeymatveev.com/booking-com-interview/
+#https://www.hackerrank.com/domains/algorithms
+#https://clevercoder.net/2017/09/08/booking-com-passed-the-interview/
